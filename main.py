@@ -1,3 +1,5 @@
+# Script de Olivier Durieux
+
 import os
 import shutil
 import subprocess
